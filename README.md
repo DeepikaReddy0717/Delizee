@@ -54,6 +54,7 @@
 
 * **HTML, CSS, JavaScript:** For building an easy-to-use and interactive interface
 * **Bootstrap:** To make the app look good and work well on all devices
+![ofd](https://github.com/user-attachments/assets/8bcc8efa-aa39-448a-9069-c83934ef4a90)
 
 ### Backend
 
