@@ -62,8 +62,18 @@
 * **MySQL:** For storing all data like users, orders, menus, and more
 
 ---
+## 📌 How to Run the Project Locally
 
----
+```bash
+# Clone the repository
+git clone https://github.com/DeepikaReddy0717/Delizee/.git
+cd /Delizee
+
+Install and start
+npm install
+npm start
+# Visit: http://127.0.0.1:8000/
+
 
 ## Conclusion
 
