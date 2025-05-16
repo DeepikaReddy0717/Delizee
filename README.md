@@ -61,6 +61,12 @@
 * **Node.js:** For handling app logic and server-side code
 * **MySQL:** For storing all data like users, orders, menus, and more
 
+
+---
+## Conclusion
+
+Delize aims to make food delivery fast, affordable, and hassle-free. With roles clearly defined and modern tech stacked up, we built a smooth platform for everyone — customers, restaurants, delivery agents, and admins. This project helped us sharpen our skills and work as a team to solve real-world problems.
+
 ---
 ## 📌 How to Run the Project Locally
 
@@ -72,10 +78,7 @@ cd /Delizee
 Install and start
 npm install
 npm start
-# Visit: http://127.0.0.1:8000/
+Visit: http://127.0.0.1:8000/
 
 
-## Conclusion
-
-Delize aims to make food delivery fast, affordable, and hassle-free. With roles clearly defined and modern tech stacked up, we built a smooth platform for everyone — customers, restaurants, delivery agents, and admins. This project helped us sharpen our skills and work as a team to solve real-world problems.
 
