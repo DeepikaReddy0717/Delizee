@@ -75,10 +75,10 @@ Delize aims to make food delivery fast, affordable, and hassle-free. With roles 
 git clone https://github.com/DeepikaReddy0717/Delizee/.git
 cd /Delizee
 
-Install and start
+#Install and start
 npm install
 npm start
-Visit: http://127.0.0.1:8000/
+#Visit: http://127.0.0.1:8000/
 
 
 
